@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: WhoIs Members
 permalink: /members/
 ---
