@@ -1,31 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: WhoIs Blog
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  아주대학교 사이버보안학과 정보보호소학회 WhoIs 블로그
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "ajou-whois.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+locale: "en-US"
+title: WhoIs Blog # Title of your site
+url: "ajou-whois.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
 github_username:  ajou-whois
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+  아주대학교 사이버보안학과 정보보호소학회 WhoIs 블로그
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: WhoIs GitHub Repository
+  links:
+    - https://github.com/ajou-whois
+
+permalink: pretty
+
 gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
