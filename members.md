@@ -4,56 +4,65 @@ title: WhoIs Members
 permalink: /members/
 ---
 
-## 현재 회원
+## 17년도 임원진
 
-* 한글 사전순
+### JuSung Ko
+* Dept. of CyberSecurity 14'
+* 2nd President
 
-### 강준구
-* 사이버보안학과 17학번
+### HyungChan Kim
+* Dept. of CyberSecurity 16'
+* 2nd Vice President
 
-### 강형국
-* 사이버보안학과 17학번
+### GwangSeok Han
+* Dept. of CyberSecurity 16'
+* 2nd Manager
 
-### 고주성
-* 사이버보안학과 14학번
-* ?대 회장
+## Members
 
-### 김형찬
-* 사이버보안학과 16학번
-* ?대 부회장
+### EunJu Lee
+* Dept. of CyberSecurity 14'
+
+### JeongSeok Jo
+* Dept. of CyberSecurity 14'
+* 1st President
 
 ### 권혁주
-* 사이버보안학과 16학번
+* Dept. of CyberSecurity 16'
 
-### 민서현
-* 사이버보안학과 15학번
+### SeoHyeon Min
+* Dept. of CyberSecurity 16'
 
-### 송영훈
-* 사이버보안학과 16학번
+### 영Hoon 송
+* Dept. of CyberSecurity 16'
 
-### 신동석
-* 사이버보안학과 17학번
+### HaeSeon Jeong
+* Dept. of CyberSecurity 16'
 
-### 윤찬기
-* 사이버보안학과 17학번
+### JunGu Kang
+* Dept. of CyberSecurity 17'
 
-### 이승현
-* 사이버보안학과 17학번
+### HyeongGuk Kang
+* Dept. of CyberSecurity 17'
 
-### 이시훈
-* 사이버보안학과 17학번
+### DongSeoc Shin
+* Dept. of CyberSecurity 17'
 
-### 이재현
-* 사이버보안학과 17학번
+### 찬기 윤
+* Dept. of CyberSecurity 17'
 
-### 임재혁
-* 사이버보안학과 17학번
+### SeungHyun Lee
+* Dept. of CyberSecurity 17'
 
-### 정해선
-* 사이버보안학과 16학번
+### SiHoon Lee
+* Dept. of CyberSecurity 17'
 
-### 한광석
-* 사이버보안학과 16학번
-* ?대 총무
+### JaeHyeon Lee
+* Dept. of CyberSecurity 17'
 
-## 과거 회원
+### JaeHyuk Lim
+* Dept. of CyberSecurity 17'
+
+## Alumni
+
+* There is no alumni yet.
