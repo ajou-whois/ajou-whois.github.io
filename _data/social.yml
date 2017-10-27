@@ -2,7 +2,7 @@
   link: 'https://www.facebook.com/comfusionllc'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: GitHub
+  link: 'https://www.github.com/ajou-whois''
+  social_icon: GitHub
   new_window: true
