@@ -1,8 +1,4 @@
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/'
   social_icon: Facebook
-  new_window: true
-- name: GitHub
-  link: 'https://www.github.com/ajou-whois''
-  social_icon: GitHub
   new_window: true
