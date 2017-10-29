@@ -27,7 +27,7 @@ permalink: /members/
 * Dept. of CyberSecurity 14'
 * 1st President
 
-### HYEOKJU GWON
+### HyeokJu Gwon
 * Dept. of CyberSecurity 16'
 
 ### SeoHyeon Min
