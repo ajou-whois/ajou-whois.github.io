@@ -4,7 +4,7 @@ title: WhoIs Members
 permalink: /members/
 ---
 
-## 17년도 임원진
+## executive
 
 ### JuSung Ko
 * Dept. of CyberSecurity 14'
@@ -27,13 +27,13 @@ permalink: /members/
 * Dept. of CyberSecurity 14'
 * 1st President
 
-### 권혁주
+### HYEOKJU GWON
 * Dept. of CyberSecurity 16'
 
 ### SeoHyeon Min
 * Dept. of CyberSecurity 16'
 
-### 영Hoon 송
+### YoungHun Song
 * Dept. of CyberSecurity 16'
 
 ### HaeSeon Jeong
@@ -48,7 +48,7 @@ permalink: /members/
 ### DongSeoc Shin
 * Dept. of CyberSecurity 17'
 
-### 찬기 윤
+### ChanKi Yoon
 * Dept. of CyberSecurity 17'
 
 ### SeungHyun Lee
