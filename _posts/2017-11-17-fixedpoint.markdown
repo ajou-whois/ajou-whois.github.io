@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "PCTF 2016 - fixedpoint"
-date: 2017-11-17 +1143
+date: 2017-11-17 +0900
+author: "JaeHyuk Lim"
 categories: [ctf, pwn]
 tags: [ctf, pwn, exploit]
 ---

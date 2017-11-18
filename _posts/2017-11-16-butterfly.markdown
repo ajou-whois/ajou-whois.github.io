@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "PCTF 2016 - Butterfly"
-date: 2017-11-16 +0126
+date: 2017-11-16 +0900
+author: "JaeHyuk Lim"
 categories: [ctf, pwn]
 tags: [ctf, pwn, exploit]
 ---
