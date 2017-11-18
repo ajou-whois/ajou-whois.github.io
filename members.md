@@ -4,17 +4,17 @@ title: "Members"
 permalink: /members/
 ---
 
-## executive
+## Executives
 
-### JuSung Ko
+### JuSung Ko(President)
 * Dept. of CyberSecurity 14'
 * 2nd President
 
-### HyungChan Kim
+### HyungChan Kim(Vice President)
 * Dept. of CyberSecurity 16'
 * 2nd Vice President
 
-### GwangSeok Han
+### GwangSeok Han(Manager)
 * Dept. of CyberSecurity 16'
 * 2nd Manager
 
