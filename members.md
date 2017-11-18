@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhoIs Members
+title: "Members"
 permalink: /members/
 ---
 
