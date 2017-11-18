@@ -64,7 +64,7 @@ tags: [ctf, pwn, exploit]
   즉, 데이터 타입의 영향을 받지 않는 녀석을 선정해야한다.<br />
 
 
-  ## II. Exploit
+## II. Exploit
   ```Python
 #!/usr/bin/python
 import struct
