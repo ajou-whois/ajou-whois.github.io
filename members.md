@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Members"
+title: "회원"
 permalink: /members/
 ---
 
