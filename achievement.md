@@ -21,9 +21,6 @@ permalink: /achievement/
 #### Samsung CTF 본선 진출
 
 * 권혁주
-
-#### Samsung CTF 본선 진출
-
 * 이시훈
 
 #### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 대상
