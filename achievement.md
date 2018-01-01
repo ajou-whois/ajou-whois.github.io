@@ -6,7 +6,9 @@ permalink: /achievement/
 
 ## 2017
 
+
 ### 회원 대회 참가 / 수상 실적
+
 
 #### 2017 국가암호공모전 장려상
 
@@ -68,9 +70,9 @@ permalink: /achievement/
 
 ### 프로젝트
 
+
 #### 제1회 Cyber Security Mini CTF 운영
 
-아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영.
-
-* 강준구, 
+아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영함.
+* 강준구, 고주성, 권혁주, 김형찬, 이시훈, 임재혁, 한광석
 * [GitHub Repository](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
