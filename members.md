@@ -4,65 +4,65 @@ title: "Members"
 permalink: /members/
 ---
 
-## Executives
+## 임원
 
-### JuSung Ko(President)
-* Dept. of CyberSecurity 14'
-* 2nd President
+### 회장 김형찬
+* 사이버보안학과 16학번
+* 2대 부회장
+* 3대 회장
 
-### HyungChan Kim(Vice President)
-* Dept. of CyberSecurity 16'
-* 2nd Vice President
+### 부회장 강준구
+* 사이버보안학과 17학번
+* 3대 부회장
 
-### GwangSeok Han(Manager)
-* Dept. of CyberSecurity 16'
-* 2nd Manager
+### 총무 정해선
+* 사이버보안학과 16학번
+* 3대 총무
 
-## Members
+### 학술부장 권혁주
+* 사이버보안학과 16학번
+* 3대 학술부장
 
-### EunJu Lee
-* Dept. of CyberSecurity 14'
+## 회원
 
-### JeongSeok Jo
-* Dept. of CyberSecurity 14'
-* 1st President
+### 민서현
+* 사이버보안학과 16학번
 
-### HyeokJu Gwon
-* Dept. of CyberSecurity 16'
+### 송영훈
+* 사이버보안학과 16학번
 
-### SeoHyeon Min
-* Dept. of CyberSecurity 16'
+### 한광석
+* 사이버보안학과 16학번
+* 2대 총무
 
-### YoungHun Song
-* Dept. of CyberSecurity 16'
+### 강형국
+* 사이버보안학과 17학번
 
-### HaeSeon Jeong
-* Dept. of CyberSecurity 16'
+### 신동석
+* 사이버보안학과 17학번
 
-### JunGu Kang
-* Dept. of CyberSecurity 17'
+### 윤찬기
+* 사이버보안학과 17학번
 
-### HyeongGuk Kang
-* Dept. of CyberSecurity 17'
+### 이시훈
+* 사이버보안학과 17학번
 
-### DongSeoc Shin
-* Dept. of CyberSecurity 17'
+### 이재현
+* 사이버보안학과 17학번
 
-### ChanKi Yoon
-* Dept. of CyberSecurity 17'
+### 임재혁
+* 사이버보안학과 17학번
 
-### SeungHyun Lee
-* Dept. of CyberSecurity 17'
+## 졸업생
 
-### SiHoon Lee
-* Dept. of CyberSecurity 17'
+### 고주성
+* 사이버보안학과 14학번
+* 2대 회장
+* 아주대학교 대학원 진학
 
-### JaeHyeon Lee
-* Dept. of CyberSecurity 17'
+### 이은주
+* 사이버보안학과 14학번
 
-### JaeHyuk Lim
-* Dept. of CyberSecurity 17'
-
-## Alumni
-
-* There is no alumni yet.
+### 조정석
+* 사이버보안학과 14학번
+* 아주대학교 대학원 진학
