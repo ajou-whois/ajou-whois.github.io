@@ -7,11 +7,11 @@ github_username:  ajou-whois
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-  Ajou University Information Security Group WhoIs Blog
+  아주대학교 사이버보안학과 정보보안소학회 WhoIs
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: WhoIs GitHub Repository
+  name: GitHub Repository
   links:
     - https://github.com/ajou-whois
 
