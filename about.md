@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About WhoIs
+title: "WhoIs 소개"
 permalink: /about/
 ---
 
