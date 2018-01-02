@@ -4,6 +4,8 @@ title: "WhoIs 소개"
 permalink: /about/
 ---
 
+<img src="{{ site.baseurl }}/assets/logo.png" title="WhoIs Logo" class="profile">
+
 ## WhoIs 소개
 
 WhoIs는 아주대학교 사이버보안학과 정보보안 소학회입니다. 소개글을 여기에 써보세요.
