@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WhoIs 회원"
+title: "회원"
 permalink: /members/
 ---
 
