@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WhoIs 활동 실적"
+title: "활동 실적"
 permalink: /achievement/
 ---
 
