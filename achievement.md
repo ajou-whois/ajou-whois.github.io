@@ -84,7 +84,8 @@ permalink: /achievement/
 
 #### 안전한 IoT 서비스 제공을 위한 보안성 점검 항목에 관한 연구 - <u>이은주</u>, <u>조정석</u>, <u>고주성</u>, 곽진
 
-* 인터넷정보학회 추계학술대회
+* 한국인터넷정보학회 추계학술대회
+* ['2017년 추계학술발표대회 발표세션 안내' - 한국인터넷정보학회](http://www.ksii.or.kr/gnuboard4/bbs/board.php?bo_table=notice&wr_id=229)
 
 ### 프로젝트
 
