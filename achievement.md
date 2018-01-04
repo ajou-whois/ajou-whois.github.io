@@ -3,8 +3,10 @@ layout: page
 title: "활동 실적"
 permalink: /achievement/
 ---
-## 2015
 
+* 이름은 사전 순서(단, 논문은 논문의 저자 표기 순서를 따름)
+
+## 2015
 
 ### 대회 참가 / 수상 실적
 
@@ -94,6 +96,6 @@ permalink: /achievement/
 * [GitHub Repository](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
 
 
-###지원사업
+### 지원사업
 
 #### 대학정보보호동아리연합회 KUCIS
