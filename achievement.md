@@ -17,6 +17,7 @@ Not Updated Yet
 #### 2017 국가암호공모전 장려상
 
 * 고주성, 권혁주, 조정석
+* ['사이버보안학과 학생팀, ‘2017 국가암호공모전’ 장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=169673)
 
 #### DEFCON CTF 본선 진출
 
@@ -30,18 +31,22 @@ Not Updated Yet
 #### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 대상
 
 * 강준구, 강형국, 김형찬
+* ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
 
 #### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 장려상
 
 * 권혁주, 이시훈, 임재혁
+* ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
 
 #### 제1회 Cyber Security Mini CTF 1위
 
 * 민서현
+* ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
 
 #### 제1회 Cyber Security Mini CTF 3위
 
 * 이재현
+* ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
 
 #### KISA HDCON 본선 진출
 
@@ -54,16 +59,19 @@ Not Updated Yet
 #### 2017 사이버 공격 방어 대회 방어팀(일반) 2위
 
 * 권혁주, 이시훈, 임재혁 참여(외부 연합팀)
+* ['국가보안기술연구소 ‘2017 사이버공격방어대회’ 2위' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=170633)
 
 ### 논문
 
 #### 드론을 이용한 취약한 IoT 환경의 위협 및 대응 방안 분석 - <u>고주성</u>, 최광훈, 김재훈
 
 * 한국정보보호학회 하계학술대회
+* ['[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최' - 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
 
 #### IoT 기기를 악용한 DDoS 공격 분석 및 대응 방안 제시 - <u>조정석</u>, <u>고주성</u>, <u>이은주</u>, 곽진
 
 * 한국정보보호학회 하계학술대회
+* ['[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최' - 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
 
 #### 안전한 IoT 서비스 제공을 위한 보안성 점검 항목에 관한 연구 - <u>이은주</u>, <u>조정석</u>, <u>고주성</u>, 곽진
 
