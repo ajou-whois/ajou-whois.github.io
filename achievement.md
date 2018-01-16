@@ -28,24 +28,16 @@ Not Updated Yet
 * 권혁주
 * 이시훈
 
-#### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 대상
+#### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 대상 및 장려상
 
-* 강준구, 강형국, 김형찬
+* 강준구, 강형국, 김형찬(대상)
+* 권혁주, 이시훈, 임재혁(장려상)
 * ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
 
-#### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 장려상
+#### 제1회 Cyber Security Mini CTF 1위 및 3위
 
-* 권혁주, 이시훈, 임재혁
-* ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
-
-#### 제1회 Cyber Security Mini CTF 1위
-
-* 민서현
-* ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
-
-#### 제1회 Cyber Security Mini CTF 3위
-
-* 이재현
+* 민서현(1위)
+* 이재현(3위)
 * ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
 
 #### KISA HDCON 본선 진출
@@ -123,7 +115,7 @@ Not Updated Yet
 
 * 권혁주 참여
 
-#### 사이버 보안학과 신입생 대상 CTF 개최
+#### 사이버보안학과 신입생 대상 CTF 개최
 
 #### 화이트햇 콘테스트 CTF 진행
 
