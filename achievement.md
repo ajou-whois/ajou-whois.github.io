@@ -4,11 +4,14 @@ title: "활동 실적"
 permalink: /achievement/
 ---
 
-* 이름은 사전 순서(단, 논문은 논문의 저자 표기 순서를 따름)
+* 이름은 사전 순서로 기재한다.
+	* 단, 논문은 논문의 저자 표기 순서를 따른다.
 
 ## 2018
 
-Not Updated Yet
+### 지원사업 참여
+
+#### Naver D2 Campus Partner 활동
 
 ## 2017
 
@@ -72,16 +75,16 @@ Not Updated Yet
 
 ### 프로젝트
 
-
 #### 제1회 Cyber Security Mini CTF 운영
 
-아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영함.
+* 아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영.
 * 강준구, 고주성, 권혁주, 김형찬, 이시훈, 임재혁, 한광석
-* [GitHub Repository](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
+* [홈페이지](https://minictf.ajou-whois.org)
+* [문제, 결과 등 관련 자료 - GitHub](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
 
-### 지원사업
+### 동아리 지원사업
 
-#### 대학정보보호동아리연합회 KUCIS
+#### 대학정보보호동아리연합회 KUCIS 활동
 
 ## 2016
 
@@ -103,11 +106,9 @@ Not Updated Yet
 
 * 권혁주 참여(외부 연합팀)
 
-#### 2016 대학 암호동아리 지원사업 우수동아리상
-
 ### 프로젝트
 
-#### 2016 꿀뷰 S/W 보안취약점 신고 및 포상금 수령
+#### 2016 꿀뷰 S/W 보안취약점 신고 및 포상
 
 * 권혁주
 
@@ -115,13 +116,15 @@ Not Updated Yet
 
 * 권혁주 참여
 
-#### 사이버보안학과 신입생 대상 CTF 개최
+#### 사이버보안학과 신입생 CTF 개최
 
-#### 화이트햇 콘테스트 CTF 진행
+#### 2016 화이트햇 콘테스트 Open CTF 진행
 
-### 지원사업
+### 참여 지원사업
 
-#### 2016 대학 암호동아리 지원사업
+#### 2016 대학 암호동아리 지원사업 참여
+
+##### 2016 대학 암호동아리 지원사업 우수동아리상 수상
 
 ### 논문
 
