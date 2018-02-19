@@ -9,7 +9,19 @@ permalink: /achievement/
 
 ## 2018
 
-### 지원사업 참여
+### 대회 참가 / 수상 실적
+
+* Not Yet
+
+### 프로젝트
+
+* Not Yet
+
+### 논문
+
+* Not Yet
+
+### 동아리 지원사업 / 대외활동 참여
 
 #### Naver D2 Campus Partner 활동
 
@@ -56,6 +68,15 @@ permalink: /achievement/
 * 권혁주, 이시훈, 임재혁 참여(외부 연합팀)
 * ['국가보안기술연구소 ‘2017 사이버공격방어대회’ 2위' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=170633)
 
+### 프로젝트
+
+#### 제1회 Cyber Security Mini CTF 운영
+
+* 아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영.
+* 강준구, 고주성, 권혁주, 김형찬, 이시훈, 임재혁, 한광석
+* [홈페이지](https://minictf.ajou-whois.org)
+* [문제, 결과 등 관련 자료 - GitHub](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
+
 ### 논문
 
 #### 드론을 이용한 취약한 IoT 환경의 위협 및 대응 방안 분석 - <u>고주성</u>, 최광훈, 김재훈
@@ -73,16 +94,7 @@ permalink: /achievement/
 * 한국인터넷정보학회 추계학술대회
 * ['2017년 추계학술발표대회 발표세션 안내' - 한국인터넷정보학회](http://www.ksii.or.kr/gnuboard4/bbs/board.php?bo_table=notice&wr_id=229)
 
-### 프로젝트
-
-#### 제1회 Cyber Security Mini CTF 운영
-
-* 아주대학교 사이버보안학과 주최로 열린 제1회 Cyber Security Mini CTF를 주관, 운영.
-* 강준구, 고주성, 권혁주, 김형찬, 이시훈, 임재혁, 한광석
-* [홈페이지](https://minictf.ajou-whois.org)
-* [문제, 결과 등 관련 자료 - GitHub](https://github.com/ajou-whois/1st-cyber-security-mini-ctf)
-
-### 동아리 지원사업
+### 동아리 지원사업 / 대외활동 참여
 
 #### 대학정보보호동아리연합회 KUCIS 활동
 
@@ -120,17 +132,17 @@ permalink: /achievement/
 
 #### 2016 화이트햇 콘테스트 Open CTF 진행
 
-### 참여 지원사업
-
-#### 2016 대학 암호동아리 지원사업 참여
-
-##### 2016 대학 암호동아리 지원사업 우수동아리상 수상
-
 ### 논문
 
 #### IoT 기기에 대한 재전송공격 취약점 분석 및 대응방안에 관한 연구 - <u>조정석</u>, <u>고주성</u>, <u>이은주</u>, 곽진
 
 * 한국정보보호학회 동계학술대회
+
+### 동아리 지원사업 / 대외활동 참여
+
+#### 2016 대학 암호동아리 지원사업 참여
+
+##### 2016 대학 암호동아리 지원사업 우수동아리상 수상
 
 ## 2015
 
