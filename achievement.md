@@ -11,7 +11,11 @@ permalink: /achievement/
 
 ### 대회 참가 / 수상 실적
 
-* Not Yet
+#### 아주인상
+
+* 대내외 수상실적 우수자
+* 고주성
+* ['2017학년도 전기 학위수여식 개최' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=173845)
 
 ### 프로젝트
 
