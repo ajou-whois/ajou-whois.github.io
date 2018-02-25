@@ -19,11 +19,10 @@ WhoIs는 정보보호 전반에서 발생하는 위협사례 분석과 대응방
 뿐만 아니라 CTF, 공모전 등 주요 대회와 지원사업, 공모전 출품 등에 적극적으로 참가하고 있습니다.
 
 ### 위치
-
-![지도](http://t1.daumcdn.net/roughmap/imgmap/32b2138001c0985322075ca73a24c2addcd7b9add8ce19e85f541c29101c132d)
-<img class="map" src="http://t1.daumcdn.net/roughmap/imgmap/32b2138001c0985322075ca73a24c2addcd7b9add8ce19e85f541c29101c132d" width="734px" height="498px" style="border:1px solid #ccc;">
-
 아주대학교 제2학생회관(신학생회관) 220호
+
+#### 지도
+![지도](http://t1.daumcdn.net/roughmap/imgmap/32b2138001c0985322075ca73a24c2addcd7b9add8ce19e85f541c29101c132d)
 
 ### 임원
 
