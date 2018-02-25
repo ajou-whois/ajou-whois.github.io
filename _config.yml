@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: WhoIs
 subtitle: "아주대학교 정보보안소학회 WhoIs"
-# mail: hj1003hj@ajou-wois.org
+email: hj1003hj@ajou-wois.org
 name: WhoIs
 description: >
   아주대학교 정보보안소학회 WhoIs 블로그
