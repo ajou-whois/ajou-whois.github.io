@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: WhoIs
-subtitle: "아주대학교 사이버보안학과 정보보안소학회 WhoIs"
-# mail: [Insert Email]
+subtitle: "아주대학교 정보보안소학회 WhoIs"
+# mail: hj1003hj@ajou-wois.org
 name: WhoIs
 description: >
-  아주대학교 사이버보안학과 정보보안소학회 WhoIs 블로그
+  아주대학교 정보보안소학회 WhoIs 블로그
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -75,35 +75,35 @@ social:
     username: WhoIs
     url:
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: WhoIs
     url: https://fb.com/ajou-whois
-    desc: Friend me on Facebook
+    desc: Like me on Facebook
     share: true
 
   - name: GitHub
     icon: github
     username: WhoIs
     url: https://github.com/ajou-whois
-    desc: Fork me on GitHub
-    share: false
+    desc: Follow me on GitHub
+    share: true
 
   - name: LinkedIn
     icon: linkedin
     username: WhoIs
     url:
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username: WhoIs
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -124,7 +124,7 @@ social:
     username: WhoIs
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -173,7 +173,7 @@ social:
     username: WhoIs
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
