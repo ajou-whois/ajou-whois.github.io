@@ -27,13 +27,19 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 ### 대회 참가 / 수상 실적
 
-##### 2017 코드게이트 CTF 대학생부 우승(Zerone Heart상)
+#### 2017 코드게이트 CTF 대학생부 우승(Zerone Heart상)
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
 | EIP 0X414A4F55 | 권혁주, 이시훈, 임재혁 | 팀(외부 연합) |
 
-*
+* ['코드게이트 2017 국제해킹방어대회 우승팀은 미국 'PPP'…한국팀 아쉽게 준우승' - IT조선](http://it.chosun.com/news/article.html?no=2833335)
+* ['코드게이트 2017, 미국 PPP 팀 2회 연속 우승!' - 보안뉴스](http://www.boannews.com/media/view.asp?idx=54242)
+* ['국제해킹방어대회서 '코드게이트 2017' 미국팀 우승
+' - YTN](http://www.ytn.co.kr/_ln/0102_201704121846306106)
+* ['국제해킹방어대회서 '코드게이트 2017' 미국팀 우승
+' - YTN 사이언스](http://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=201704131554153846)
+* ['제10회 코드게이트2017 개최 결과' - 과학기술정보통신부](http://www.msit.go.kr/web/msipContents/contentsView.do?cateId=mssw315&artId=1337902)
 
 #### DEFCON CTF 본선 진출
 
