@@ -27,7 +27,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 ### 대회 참가 / 수상 실적
 
-#### 2017 코드게이트 CTF 대학생부 우승(Zerone Heart상)
+#### 2017 코드게이트 CTF 대학생부 우승
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
@@ -40,6 +40,15 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 * ['국제해킹방어대회서 '코드게이트 2017' 미국팀 우승
 ' - YTN 사이언스](http://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=201704131554153846)
 * ['제10회 코드게이트2017 개최 결과' - 과학기술정보통신부](http://www.msit.go.kr/web/msipContents/contentsView.do?cateId=mssw315&artId=1337902)
+
+#### 2017 코드게이트 해킹 시연 영상 공모전 최우수상(1위)
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| ACT | 강준구, 권혁주, 임재혁 | 팀(외부 연합) |
+
+* ['웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연(코드게이트 2017 해킹시연영상 공모전)' - YouTube](https://youtu.be/bEMj2szsb1M)
+* ['[2017 코드게이트 해킹시연 공모전] 최우수상 - 웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연 (아주대학교 ACT)' - YouTube](https://youtu.be/gkJuKAkOOBo)
 
 #### DEFCON CTF 본선 진출
 
