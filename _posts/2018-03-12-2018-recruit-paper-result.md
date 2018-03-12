@@ -45,4 +45,5 @@ tags: [notice, freshmen]
 
 ### 문의
 
+* 회장 김형찬(hj1003hj@ajou-whois.org)
 * 부회장 강준구(jgkang@ajou-whois.org)
