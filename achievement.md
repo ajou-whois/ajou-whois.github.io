@@ -10,6 +10,14 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 ### 대회 참가 / 수상 실적
 
+#### 2018 코드게이트 해킹 시연 영상 공모전 최우수상(1위) 및 인기상
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| Emohtrams | 최소혜 | 팀(외부 연합) |
+
+* ['[2018 코드게이트 해킹시연 공모전] Smarthome Hacking In Real World' - YouTube](https://youtu.be/jZPudR4pWxM)
+
 #### 아주인상
 
 | 팀명 | 팀원 | 비고 |
