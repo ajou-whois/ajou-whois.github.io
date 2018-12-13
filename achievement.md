@@ -6,9 +6,49 @@ permalink: /achievement/
 
 WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
+* 이름은 사전순 기재
+
 ## 2018
 
 ### 대회 참가 / 수상 실적
+
+#### 2018 사이버공격방어대회 방어팀 우승
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| hide on bash | 강준구, 권혁주, 이시훈 | 외부 연합(예선 2위) |
+
+* ["사이버보안학과 학생들, '2018 사이버 공격방어대회' 우승·준우승", 아주대학교](http://www.ajou.ac.kr/main/ajou/news.jsp?mode=view&article_no=186405)
+
+#### 2018 사이버공격방어대회 공격팀 준우승
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| LeaveCat | 오우진 | 외부 연합(예선 1위) |
+
+* ["사이버보안학과 학생들, '2018 사이버 공격방어대회' 우승·준우승", 아주대학교](http://www.ajou.ac.kr/main/ajou/news.jsp?mode=view&article_no=186405)
+
+#### 2018 사이버공격방어대회 방어팀 본선 진출
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| $wag | 김승환 | 외부 연합(예선 3위) |
+
+* ["사이버보안학과 학생들, '2018 사이버 공격방어대회' 우승·준우승", 아주대학교](http://www.ajou.ac.kr/main/ajou/news.jsp?mode=view&article_no=186405)
+
+#### 2018 사이버공격방어대회 공격팀 본선 진출
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| RE:트위터에서시작하는제주도행버스 | 서민교 | 외부 연합(예선 5위) |
+
+* ["사이버보안학과 학생들, '2018 사이버 공격방어대회' 우승·준우승", 아주대학교](http://www.ajou.ac.kr/main/ajou/news.jsp?mode=view&article_no=186405)
+
+#### 제5회 소프트웨어 개발보안 경진대회 모바일앱 부문 장려상
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| 강준구 | 강준구 | 팀 |
 
 #### Samsung CTF 장려상
 
@@ -23,6 +63,12 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 | - | 김승환 | 개인 |
 | - | 오우진 | 개인 |
 
+#### WhiteHat Grand Prix 2018 본선 진출
+
+| 팀명 | 팀원 | 비고 |
+|:-:|:-:|:-:|
+| JustToPlay | 이시훈 | 팀(외부 연합) |
+
 #### 2018 CodeBlue CTF 본선 진출(예선 5위)
 
 | 팀명 | 팀원 | 비고 |
@@ -35,19 +81,19 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | GoGISaJo | 김승환 | 팀(외부 연합) |
 
-#### MeePwn CTF 본선 진출
+#### Meepwn CTF 본선 진출
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
 | LeaveCat | 서민교, 이시훈, 오우진 | 팀(외부 연합) |
 
-#### 2018 국방 사이버안보 콘테스트 해킹방어대회 본선 2위
+#### 2018 국방 사이버안보 콘테스트 해킹방어대회 우수상(2위)
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
 | 윤성권1인팀 | 김승환, 이해찬 | 팀(외부 연합) |
 
-#### 2018 국방 사이버안보 콘테스트 해킹방어대회 본선 3위
+#### 2018 국방 사이버안보 콘테스트 해킹방어대회 장려상(3위)
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
@@ -91,7 +137,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 #### 아주대학교 동아리·소학회 콘테스트 소학회 부문 은상
 
-* ['동아리·소학회 콘테스트 열려, 유레카·씨리얼 대상 영예' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=177794)
+* ["동아리·소학회 콘테스트 열려, 유레카·씨리얼 대상 영예", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=177794)
 
 #### 2018 코드게이트 해킹방어대회 대학생부 본선 5위
 
@@ -111,7 +157,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | Emohtrams | 최소혜 | 팀(외부 연합) |
 
-* ['[2018 코드게이트 해킹시연 공모전] Smarthome Hacking In Real World' - YouTube](https://youtu.be/jZPudR4pWxM)
+* ["[2018 코드게이트 해킹시연 공모전] Smarthome Hacking In Real World", YouTube](https://youtu.be/jZPudR4pWxM)
 
 #### 아주인상
 
@@ -120,7 +166,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 | - | 고주성 | 개인 |
 
 * 활동실적 우수자
-* ['2017학년도 전기 학위수여식 개최' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=173845)
+* ["2017학년도 전기 학위수여식 개최", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=173845)
 
 ### 프로젝트
 
@@ -170,15 +216,13 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
-| EIP 0X414A4F55 | 권혁주(팀장), 이시훈, 임재혁 | 팀(외부 연합) |
+| EIP 0X414A4F55 | 권혁주, 이시훈, 임재혁 | 팀(외부 연합) |
 
-* ['코드게이트 2017 국제해킹방어대회 우승팀은 미국 'PPP'…한국팀 아쉽게 준우승' - IT조선](http://it.chosun.com/news/article.html?no=2833335)
-* ['코드게이트 2017, 미국 PPP 팀 2회 연속 우승!' - 보안뉴스](http://www.boannews.com/media/view.asp?idx=54242)
-* ['국제해킹방어대회서 '코드게이트 2017' 미국팀 우승
-' - YTN](http://www.ytn.co.kr/_ln/0102_201704121846306106)
-* ['국제해킹방어대회서 '코드게이트 2017' 미국팀 우승
-' - YTN 사이언스](http://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=201704131554153846)
-* ['제10회 코드게이트2017 개최 결과' - 과학기술정보통신부](http://www.msit.go.kr/web/msipContents/contentsView.do?cateId=mssw315&artId=1337902)
+* ["코드게이트 2017 국제해킹방어대회 우승팀은 미국 'PPP'…한국팀 아쉽게 준우승", IT조선](http://it.chosun.com/news/article.html?no=2833335)
+* ["코드게이트 2017, 미국 PPP 팀 2회 연속 우승!", 보안뉴스](http://www.boannews.com/media/view.asp?idx=54242)
+* ["국제해킹방어대회서 '코드게이트 2017' 미국팀 우승", YTN](http://www.ytn.co.kr/_ln/0102_201704121846306106)
+* ["국제해킹방어대회서 '코드게이트 2017' 미국팀 우승", YTN 사이언스](http://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=201704131554153846)
+* ["제10회 코드게이트2017 개최 결과", 과학기술정보통신부](http://www.msit.go.kr/web/msipContents/contentsView.do?cateId=mssw315&artId=1337902)
 
 #### 2017 코드게이트 해킹 시연 영상 공모전 최우수상(1위)
 
@@ -186,8 +230,8 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | ACT | 강준구, 권혁주, 임재혁 | 팀(외부 연합) |
 
-* ['웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연(코드게이트 2017 해킹시연영상 공모전)' - YouTube](https://youtu.be/bEMj2szsb1M)
-* ['[2017 코드게이트 해킹시연 공모전] 최우수상 - 웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연 (아주대학교 ACT)' - YouTube](https://youtu.be/gkJuKAkOOBo)
+* ["웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연(코드게이트 2017 해킹시연영상 공모전)", YouTube](https://youtu.be/bEMj2szsb1M)
+* ["[2017 코드게이트 해킹시연 공모전] 최우수상 - 웹 브라우저 취약점을 이용한 랜섬웨어 감염 시연 (아주대학교 ACT)", YouTube](https://youtu.be/gkJuKAkOOBo)
 
 #### DEFCON CTF 본선 진출
 
@@ -206,17 +250,17 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
-| 1교시가싫어요 | 강준구(팀장), 강형국, 김형찬 | 팀 |
+| 1교시가싫어요 | 강준구, 강형국, 김형찬 | 팀 |
 
-* ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
+* ["사이버보안학과 학생팀, 'SW 개발보안 경진대회' 대상·장려상", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
 
 #### 제4회 소프트웨어 개발보안 경진대회 모바일앱 부문 장려상
 
 | 팀명 | 팀원 | 비고 |
 |:-:|:-:|:-:|
-| 장학금주세요 | 권혁주(팀장), 이시훈, 임재혁 | 팀 |
+| 장학금주세요 | 권혁주, 이시훈, 임재혁 | 팀 |
 
-* ['사이버보안학과 학생팀, ‘SW 개발보안 경진대회’ 대상·장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
+* ["사이버보안학과 학생팀, 'SW 개발보안 경진대회' 대상·장려상", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168366)
 
 #### 제1회 Cyber Security Mini CTF 1위
 
@@ -224,7 +268,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | - | 민서현 | 개인 |
 
-* ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
+* ["'제1회 사이버보안학과의 날' 행사 열려", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
 
 #### 제1회 Cyber Security Mini CTF 3위
 
@@ -232,7 +276,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | - | 이재현 | 개인 |
 
-* ['‘제1회 사이버보안학과의 날’ 행사 열려' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
+* ["'제1회 사이버보안학과의 날' 행사 열려", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=168775)
 
 #### KISA HDCON 본선 8위
 
@@ -252,7 +296,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | hide on bash | 권혁주, 이시훈, 임재혁 | 팀(외부 연합) |
 
-* ['국가보안기술연구소 ‘2017 사이버공격방어대회’ 2위' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=170633)
+* ["국가보안기술연구소 '2017 사이버공격방어대회' 2위", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=170633)
 
 #### 2017 국가암호공모전 장려상
 
@@ -260,7 +304,7 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 |:-:|:-:|:-:|
 | - | 고주성, 권혁주, 조정석 | 팀 |
 
-* ['사이버보안학과 학생팀, ‘2017 국가암호공모전’ 장려상' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=169673)
+* ["사이버보안학과 학생팀, '2017 국가암호공모전' 장려상", 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=169673)
 
 ### 프로젝트
 
@@ -276,17 +320,17 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 #### 드론을 이용한 취약한 IoT 환경의 위협 및 대응 방안 분석 - <u>고주성</u>, 최광훈, 김재훈
 
 * 한국정보보호학회 하계학술대회
-* ['[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최' - 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
+* ["[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최", 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
 
 #### IoT 기기를 악용한 DDoS 공격 분석 및 대응 방안 제시 - <u>조정석</u>, <u>고주성</u>, <u>이은주</u>, 곽진
 
 * 한국정보보호학회 하계학술대회
-* ['[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최' - 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
+* ["[KIISC]2017 한국정보보호학회 하계학술대회(CISC-S'17) 개최", 한국정보보호학회](http://kcert.designq.kr/bbs/board.php?bo_table=s41&wr_id=105)
 
 #### 안전한 IoT 서비스 제공을 위한 보안성 점검 항목에 관한 연구 - <u>이은주</u>, <u>조정석</u>, <u>고주성</u>, 곽진
 
 * 한국인터넷정보학회 추계학술대회
-* ['2017년 추계학술발표대회 발표세션 안내' - 한국인터넷정보학회](http://www.ksii.or.kr/gnuboard4/bbs/board.php?bo_table=notice&wr_id=229)
+* ["2017년 추계학술발표대회 발표세션 안내", 한국인터넷정보학회](http://www.ksii.or.kr/gnuboard4/bbs/board.php?bo_table=notice&wr_id=229)
 
 ### 동아리 지원사업 / 대외활동 참여
 
