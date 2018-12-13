@@ -122,6 +122,40 @@ WhoIs와 WhoIs 회원들의 모든 활동 실적입니다.
 * 활동실적 우수자
 * ['2017학년도 전기 학위수여식 개최' - 아주대학교](http://www.ajou.ac.kr/new/ajou/news.jsp?mode=view&article_no=173845)
 
+### 프로젝트
+
+### 논문
+
+#### 안드로이드 애플리케이션 사용 시 저장되는 주요 캐시 데이터 분석에 관한 연구 - <u>김형찬</u>,김동현, 손태식
+
+* 한국정보보호학회
+
+#### Offensive Research of Non-ActiveX based Security Module - 이정민, 이주선, 이진우, 이준오, <u>이시훈</u>, 박주현
+
+* 한국정보보호학회
+
+#### JSON Based RPC Protocol Automated Fuzzing - 이주선, 박주현, <u>이시훈</u>, 이정민, 이준오, 이진우
+
+* 한국정보보호학회
+
+#### 머신러닝을 이용한 지능형 컴플라이언스 적용 시스템 설계에 관한 연구 - <u>고영민</u>, 곽진
+
+* 인터넷정보학회
+
+#### A Study on Detection Method for Hypervisor-based Workload Migration Security Threats and Vulnerabilities - <u>고영민</u>, 최슬기, 곽진
+
+* 인터넷정보학회
+
+#### GAN과 Edge Detector를 사용한 Webtoon 자동 채색 기법 - 홍준표, <u>김형호</u>, 김동이, 황원준
+
+* 한국정보과학회
+
+#### GAN을 사용한 영상 컨텐츠 리마스터링 기법 - <u>김형호</u>, 홍준표, 김동이, 황원준
+
+* 한국정보과학회
+
+### 발표
+
 ### 동아리 지원사업 / 대외활동 참여
 
 #### Naver D2 Campus Partner 활동
